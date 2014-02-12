@@ -8,6 +8,6 @@ log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tours_*.mp4
-
+bintree
 
 # question: would log/archive/access.log be ignored? No
