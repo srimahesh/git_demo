@@ -9,5 +9,6 @@ assets/photoshop/
 assets/videos/
 !assets/videos/tours_*.mp4
 bintree
+bintree copy
 
 # question: would log/archive/access.log be ignored? No
