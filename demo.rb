@@ -1,3 +1,4 @@
+# This is the first file to be commited
 # Demo class to demonstrate the to_s method to represent Objects
 
 class Person
