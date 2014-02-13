@@ -17,6 +17,7 @@ end
 
 person = Person.new("Mahesh")
 
+puts %Q!person !, "\n"
 puts person
 
 
