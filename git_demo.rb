@@ -29,3 +29,27 @@ class Account
   
   
 end
+
+def memo(n)
+  memo = {}
+  1.upto(n) do |i|
+    if memo[i]
+      return memo[i]
+    else
+      memo[i] = fib(i)
+    end
+  end
+  return memo[n]
+end
+
+@memo
+def fib(n)
+  puts "Fib called"
+  if n == 1; return 0; end;
+  if n == 2; return 1; end;
+
+  return fib(n-2) + fib(n-1)
+end
+
+
+puts memo(3)
