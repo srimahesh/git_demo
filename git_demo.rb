@@ -23,9 +23,11 @@ puts person
 
 
 class Account
-  def initialize(args)
+  def initialize()
     puts "empty class for now"
   end
   
   
 end
+
+acc = Account.new
