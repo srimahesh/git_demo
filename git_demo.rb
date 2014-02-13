@@ -23,13 +23,14 @@ puts person
 
 
 class Account
-  def initialize(args)
+  def initialize()
     puts "empty class for now"
   end
   
   
 end
 
+<<<<<<< HEAD
 # Needs to be fixed
 def memo(n)
   memo = {}
@@ -54,3 +55,6 @@ end
 
 
 puts memo(3)
+=======
+acc = Account.new
+>>>>>>> account_class
