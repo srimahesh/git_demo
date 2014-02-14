@@ -30,7 +30,7 @@ class Account
   
 end
 
-<<<<<<< HEAD
+
 # Needs to be fixed
 def memo(n)
   memo = {}
@@ -55,9 +55,10 @@ end
 
 
 puts memo(3)
-=======
 acc = Account.new
->>>>>>> account_class
-
 
 # I want to make a clean merge!
+
+acc = Account.new
+
+# New comment
