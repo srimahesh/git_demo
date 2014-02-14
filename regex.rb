@@ -16,3 +16,6 @@ puts "Index is: #{/the/.match(str)}"
 
 
 puts "#{/ew/ =~ str}"
+
+
+# Merge conflicts!
