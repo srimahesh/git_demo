@@ -58,3 +58,6 @@ puts memo(3)
 =======
 acc = Account.new
 >>>>>>> account_class
+
+
+# I want to make a clean merge!
